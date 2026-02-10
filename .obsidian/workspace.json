@@ -11,12 +11,14 @@
             "id": "d706f2604c407019",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "analysis_and_anylogic_guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.7"
+              "icon": "lucide-file",
+              "title": "analysis_and_anylogic_guide"
             }
           }
         ]
@@ -190,6 +192,7 @@
   },
   "active": "d706f2604c407019",
   "lastOpenFiles": [
+    "analysis_and_anylogic_guide.md",
     "math_model.md",
     "Android_Interview_CheatSheet.md",
     "compass_artifact_wf-4d44c8fd-256b-4665-af86-eb8a6322224d_text_markdown.md",
@@ -220,7 +223,6 @@
     "Программирование/ML/📐 Математика для нейронных сетей.md",
     "Программирование/ML/Логистический классификатор.md",
     "Программирование/ML/Функция ошибок.md",
-    "Программирование/ML/Классификация.md",
     "Программирование/ML/Photos/Pasted image 20250925113552.png",
     "Программирование/ML/Photos/Pasted image 20250925113251.png",
     "Программирование/ML/Photos/Pasted image 20250925112958.png",
