@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4e7b8b815507bf52",
+        "id": "d00bd250b7b95d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "146be8a3e7180d5e",
+            "id": "d706f2604c407019",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.7"
             }
           }
         ]
@@ -186,8 +188,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "146be8a3e7180d5e",
+  "active": "d706f2604c407019",
   "lastOpenFiles": [
+    "math_model.md",
     "Android_Interview_CheatSheet.md",
     "compass_artifact_wf-4d44c8fd-256b-4665-af86-eb8a6322224d_text_markdown.md",
     "Зачет абдулин.md",
@@ -218,7 +221,6 @@
     "Программирование/ML/Логистический классификатор.md",
     "Программирование/ML/Функция ошибок.md",
     "Программирование/ML/Классификация.md",
-    "Программирование/ML/Линейная регрессия.md",
     "Программирование/ML/Photos/Pasted image 20250925113552.png",
     "Программирование/ML/Photos/Pasted image 20250925113251.png",
     "Программирование/ML/Photos/Pasted image 20250925112958.png",
