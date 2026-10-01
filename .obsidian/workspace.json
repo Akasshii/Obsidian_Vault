@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Список тем для подготовки"
             }
-          },
-          {
-            "id": "85a70d0adab8d676",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.13.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "3280e5b12d675506",
@@ -205,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85a70d0adab8d676",
+  "active": "797a2aed5ad883c5",
   "lastOpenFiles": [
     "Без названия.canvas",
     "Программирование/ML/Полиномиальная регрессия.md",
