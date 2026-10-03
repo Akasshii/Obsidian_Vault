@@ -19,11 +19,8 @@
 * [ ] ⭐ Generalization, Underfitting / Overfitting
 
 * [x] ⭐ Bias-Variance tradeoff
-
 * [ ] ⭐ MLE → откуда берутся MSE (Gaussian) и BCE (Bernoulli)
-
 * [ ] MAP → откуда берутся L2 (Gaussian prior) и L1 (Laplace prior)
-
 * [ ] Empirical risk minimization
 
 * [ ] Curse of dimensionality
